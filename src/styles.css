@@ -212,6 +212,13 @@ h1 {
   transform: translateX(-50%) scale(1.1);
 }
 
+#langSelect {
+  width: 100px;
+  margin: 15px auto;
+  border-radius: 5px;
+  padding: 5px;
+}
+
 /*
   Modal styles
 
@@ -234,6 +241,7 @@ h1 {
 .modal-title {
   margin-bottom: 0.5em;
 }
+
 
 /*
   Keyframe animations

@@ -23,6 +23,7 @@ function Game({gameStatus, setGameStatus, answer, setAnswer}) {
       {gameStatus !== "" && <button className="rePlay" onClick={() => { 
         setAnswer("")
         setGuesses([])
+        setGameStatus("")
       }}>New Game</button>}
       <GuessesList answer={answer} guesses={guesses}/>
       <GuessInput handleSubmitGuess={handleSubmitGuess} gameStatus={gameStatus}/>

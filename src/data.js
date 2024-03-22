@@ -1,4 +1,4 @@
-export const WORDS = [
+export const WORDSENG = [
   'AGENT',
   'WORLD',
   'ABOUT',
@@ -50,3 +50,14 @@ export const WORDS = [
   'FLAKE',
   'SOUND',
 ];
+
+export const WORDSFR = [
+  "PLAGE", "MARIN", "METRE", "TIARE", "TACHE", "LYCEE", "SCENE", "SALON", "REPOS", "POMME",
+  "NUAGE", "FILLE", "MAINS", "MAINE", "TAXER", "RUGBY", "PALME", "JARDI", "CHAUD", "HORSE",
+  "VALSE", "HOTEL", "JALON", "BEAUX", "TEMPS", "NOMME", "JOUER", "FLUTE", "LUCRE", "LAPIN",
+  "TABLE", "CHIEN", "ROBOT", "GRAND", "BLANC", "NOIR", "VERTS", "LIVRE", "CORPS", "MURER",
+  "CHAIR", "MAGIE", "REGLE", "TROIS", "FLEUR", "BAGUE", "MONTE", "VOILE", "CIELS"
+]
+
+
+
